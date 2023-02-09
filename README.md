@@ -18,5 +18,5 @@ cuánto gasta en el mes con los servicios que se encuentra utilizando.
 
 ## Idea 2: Aplicación para dividir los gastos de una factura.
 
-Esta aplicación nos debe permitir dividir la cuenta de un grupo grande de personas que desean pagar y agilizar su pago, debido a que se demoran en realizar la cuenta y que cada integrante del grupo conozca el total de su cuenta, ya que en algunos casos, hay integrantes que piden más cosas que otros, entonces la aplicación debe poner adicionar gasto independiente, ingresar el número de integrantes, la cuenta total, el medio por el cual realizara el pago, ya que no todos pueden pagar en efectivo o tarjeta y adicional darle el monto que cada persona debe pagar.
+Esta aplicación nos debe permitir dividir la cuenta de un grupo grande de personas que desean pagar y agilizar su pago, debido a que se demoran en realizar la dividion de la cuenta, ya que en algunos casos hay integrantes que piden más cosas que otros, entonces la aplicación debe poner adicionar gasto independiente, ingresar el número de integrantes, la cuenta total, el medio por el cual realizara el pago, ya que no todos pueden pagar en efectivo o tarjeta y adicional darle el monto que cada persona debe pagar.
 
