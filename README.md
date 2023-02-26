@@ -1,7 +1,7 @@
 # Proyecto-Android
 # Ideas de proyecto
 Se proponen las siguientes ideas de proyecto :
-## Idea 1: Aplicación para recordar los pagos de hogar y personales de cada persona.
+## (SELECCIONADA)Idea 1: Aplicación para recordar los pagos de hogar y personales de cada persona.
 - Pago de la luz
 -	Pago del internet
 -	Pago del agua
