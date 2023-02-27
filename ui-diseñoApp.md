@@ -22,22 +22,28 @@ en [Marvel app]([https://marvelapp.com/prototype/bdbchg1])
    
    Cuando el usuario ingrese en la aplicacion, vera una lista de funcionalidades las cuales podra realizar.
    
-   ![Lista de Funcionalidades](imagenes/Lista de Funcionalidades.png)
+   ![Lista de Funcionalidades](imagenes/Lista_de_Funcionalidades.png)
    
 4. Agregar Servicio.
    
    El usuario podra registrar un servicio el cual quiere que sea recordado. 
    
-   ![Agregar Servicio](imagenes/Agregar Servicio.png)
+   ![Agregar Servicio](imagenes/Agregar_Servicio.png)
 
 5. Calcular pago del Servicio.
    
    El usuario podra calcular el pago de un servicio seleccionado de los que agrego. 
    
-   ![Calcular Servicio](imagenes/Calcular servicio.png)
+   ![Calcular Servicio](imagenes/Calcular_servicio.png)
 
 6. Gasto Mensual.
    
    El usuario podra ver el gasto mensual de los servicios registrados. 
    
-   ![Gasto Mensual](imagenes/Gasto Mensual.png)
+   ![Gasto Mensual](imagenes/Gasto_Mensual.png)
+
+7. Notificaciones.
+   
+   El usuario podra ver una lista de los servicios que se le recordaran. 
+   
+   ![Notificaciones](imagenes/Notificaciones.png)
