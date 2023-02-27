@@ -11,5 +11,27 @@ en [Marvel app]([https://marvelapp.com/prototype/bdbchg1])
 
    Cuando el usuario ingrese a la aplicaicón verá un Login el cual le permitira acceder a la plataforma o registrarse.
     ![Inicio de sesión](imagenes/login.png)
+    
+2. Registrarse en la aplicación.
+   
+   El usuario debera registrarse en la aplicacion para poder utilizar las funcionalidades de la app.
+   ![Registrarse](imagenes/Registrar.png)
+   
+3. Lista de Funcionalidades
+   
+   Cuando el usuario ingrese en la aplicacion, vera una lista de funcionalidades las cuales podra realizar.
+   ![Lista de Funcionalidades](imagenes/Lista de Funcionalidades.png)
+4. Agregar Servicio
+   
+   El usuario podra registrar un servicio el cual quiere que sea recordado. 
+   ![Agregar Servicio](imagenes/Agregar Servicio.png)
 
+5. Calcular pago del Servicio
+   
+   El usuario podra calcular el pago de un servicio seleccionado de los que agrego. 
+   ![Calcular Servicio](imagenes/Calcular servicio.png)
 
+6. Gasto Mensual
+   
+   El usuario podra ver el gasto mensual de los servicios registrados. 
+   ![Gasto Mensual](imagenes/Gasto Mensual.png)
