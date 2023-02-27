@@ -10,6 +10,6 @@ en [Marvel app]([https://marvelapp.com/prototype/bdbchg1])
 1. Inicio de la aplicacion.
 
    Cuando el usuario ingrese a la aplicaicón verá un Login el cual le permitira acceder a la plataforma o registrarse.
-    ![Inicio de sesión](imagenes/Login.png)
+    ![Inicio de sesión](imagenes/login.png)
 
 
