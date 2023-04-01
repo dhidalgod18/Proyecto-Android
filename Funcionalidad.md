@@ -26,4 +26,6 @@ APPRecordatorio le permitirá al usuario notificar e interactuar con distintos s
 6. Ver el gastos mensual de sus servicios.
 
 7. Ver la lista de actividades a desarrollar en el menu : añadir servicio, calcular, notificaciones, y el gasto mensual.
+8. La informacion del usuario sera almacenada en una base de datos local.
+
 
