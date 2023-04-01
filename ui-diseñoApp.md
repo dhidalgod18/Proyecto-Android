@@ -26,7 +26,7 @@ en [Marvel app](https://marvelapp.com/prototype/bdbchg1)
    
 4. Agregar Servicio.
    
-   El usuario podra registrar un servicio el cual quiere que sea recordado. 
+   El usuario podra registrar un servicio el cual quiere que sea recordado(El campo fecha se despleguara un calendario). 
    
    ![Agregar Servicio](imagenes/Agregar_Servicio.png)
 
